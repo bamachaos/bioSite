@@ -33,7 +33,7 @@
 }
 
 body {
-	font-family: 'Inter', sans-serif;
+	font-family: "Inter", sans-serif;
 	background-color: var(--primary-color);
 	color: var(--secondary-color);
 }
@@ -177,7 +177,7 @@ footer p {
 }
 
 footer a {
-    text-decoration: none;
+    text-decoration: underline;
     color: var(--secondary-color);
 }
 
